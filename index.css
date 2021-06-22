@@ -29,7 +29,7 @@ header input{
     outline: none;
     background-color: rgba(255,255,255, 0.3);
     border-radius: 16px 0px 16px 0px;
-    border-bottom: 3px solid #df8e00;
+    border-bottom: 3px solid #2d49e9;
 
     color: #313131;
     font-size: 20px;
@@ -90,5 +90,5 @@ main{
     color: #fff;
     font-size: 24px;
     font-weight: 500;
-    text-shadow: 0px 4px rgba(0,0,0,0.6);
+    text-shadow: 0px 3px rgba(0,0,0,0.6);
 }
